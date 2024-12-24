@@ -10,7 +10,7 @@
                                                            
 ```
 
-<p>Web-developer from Moscow</p>
+<p>Web-developer</p>
 
 - [Website](https://five5laps.dev/) ( five5laps.dev )
 
